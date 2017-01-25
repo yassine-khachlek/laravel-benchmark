@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Console\Commands;
+namespace Yk\LaravelBenchmark\App\Console\Commands;
 
 use Illuminate\Console\Command;
 

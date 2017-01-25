@@ -1,0 +1,10 @@
+{
+    "name": "yk/laravel-benchmark",
+    "authors": [
+        {
+            "name": "Yassine Khachlek",
+            "email": "yassine.khachlek@gmail.com"
+        }
+    ],
+    "require": {}
+}
